@@ -1,6 +1,5 @@
 ### Hi there 👋
-- 🌱 I just graduated from University of Science and Technology of China
-- 🌱 I’m currently a PhD candidate at Zhejiang University
+- 🌱 I'm currently a Ph.D. student at Zhejiang University.
 <!--
 **elttaes/elttaes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
